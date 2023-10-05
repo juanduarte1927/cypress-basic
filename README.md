@@ -4,8 +4,8 @@ Welcome to our first exercise with Cypress.
 
 To get started, execute the following command in your terminal (please ensure that you are in the project's root directory):
 
-```bash
-npm install
+
+ `npm install `
 
 Now, you are ready to write your first automated test!
 
